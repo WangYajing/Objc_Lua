@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "lualib.h"
+#import "lua.h"
+#import "lauxlib.h"
 
 @interface ViewController : UIViewController
-
 
 @end
 
